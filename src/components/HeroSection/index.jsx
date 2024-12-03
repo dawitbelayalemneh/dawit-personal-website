@@ -33,7 +33,7 @@ const HeroSection = () => {
             
             {/* Resume Button */}
             <motion.a
-              href="/src/assets/icons/resume.pdf"  // Replace this with your actual resume path
+              href="/resume.pdf"  // Replace this with your actual resume path
               //target="_blank"
               download="Dawit_Belay_Resume.pdf"
               className="mt-16 inline-block px-6 py-3 text-primary border-2 border-primary rounded-md shadow-lg hover:bg-primary-100 dark:border-primary-100 dark:text-white dark:hover:bg-primary-300 transition-all"
